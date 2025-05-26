@@ -1,5 +1,5 @@
 # Ksiazka-telefoniczna
-Mini projekt semestralny, Informatyka EiA 2 Semestr
+Mini projekt semestralny, Informatyka EiA 2 Semestr.
 W projekcie zostały spełnione wszystkie wymagane warunki do wykonania.
 W programie została wykorzystana nakładka PyQt umożliwiająca tworzenie interfejsu graficznego
 
