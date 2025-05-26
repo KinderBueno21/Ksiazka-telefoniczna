@@ -7,7 +7,7 @@ W programie została wykorzystana nakładka PyQt umożliwiająca tworzenie inter
 
 1.PLIK
 
-  Do działania programu używany jest plik "ksiazka.json". Jesli plik nie istnieje zostanie on automatycznie utworzony przy dodawaniu pierwszej osoby do książki. Funkcje programu nie będą działały jeśli baza jest pusta/nie istnieje. Wyskoczy komunikat o pustej bazie np. po kliknięciu w statystyki. Zostało również zaimplementowane sprawdzanie duplikatów. W przypadku wpisania osób o takich samych adresach i nazwie zostaniei wyświetlony komunikat
+  Do działania programu używany jest plik "ksiazka.json". Jesli plik nie istnieje zostanie on automatycznie utworzony przy dodawaniu pierwszej osoby do książki. Funkcje programu nie będą działały jeśli baza jest pusta/nie istnieje. Wyskoczy komunikat o pustej bazie np. po kliknięciu w statystyki. Zostało również zaimplementowane sprawdzanie duplikatów. W przypadku wpisania osób o takich samych adresach i nazwie zostaniei wyświetlony komunikat.
   
 **Dodatkowo**: W repozytorium załączyłem plik ksiazka.json zawierający 40 wygenerowanych losowo rekordów. Plik mozna wykorzystać do przetestowania funkcji programu. 
 
