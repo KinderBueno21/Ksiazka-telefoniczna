@@ -1,0 +1,362 @@
+[
+  {
+    "imie": "Jan",
+    "nazwisko": "Kowalski",
+    "telefon": "+48123456701",
+    "ulica": "Marszałkowska",
+    "numer_domu": "12",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-001"
+  },
+  {
+    "imie": "Anna",
+    "nazwisko": "Nowak",
+    "telefon": "+48234567802",
+    "ulica": "Piotrkowska",
+    "numer_domu": "34",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-002"
+  },
+  {
+    "imie": "Piotr",
+    "nazwisko": "Wiśniewski",
+    "telefon": "+48345678903",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "56",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-003"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "Wójcik",
+    "telefon": "+48456789014",
+    "ulica": "Długa",
+    "numer_domu": "78",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-004"
+  },
+  {
+    "imie": "Michał",
+    "nazwisko": "Kamińska",
+    "telefon": "+48567890125",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "90",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-005"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazwisko": "Lewandowski",
+    "telefon": "+48678901236",
+    "ulica": "Kościuszki",
+    "numer_domu": "23",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-006"
+  },
+  {
+    "imie": "Paweł",
+    "nazwisko": "Zieliński",
+    "telefon": "+48789012347",
+    "ulica": "Marszałkowska",
+    "numer_domu": "45",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-007"
+  },
+  {
+    "imie": "Monika",
+    "nazwisko": "Szymański",
+    "telefon": "+48890123458",
+    "ulica": "Piotrkowska",
+    "numer_domu": "67",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-008"
+  },
+  {
+    "imie": "Tomasz",
+    "nazwisko": "Woźniak",
+    "telefon": "+48901234569",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "89",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-009"
+  },
+  {
+    "imie": "Magdalena",
+    "nazwisko": "Dąbrowski",
+    "telefon": "+48109876540",
+    "ulica": "Długa",
+    "numer_domu": "10",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-010"
+  },
+  {
+    "imie": "Łukasz",
+    "nazwisko": "Krawczyk",
+    "telefon": "+48210987651",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "22",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-011"
+  },
+  {
+    "imie": "Ewa",
+    "nazwisko": "Kaczmarek",
+    "telefon": "+48321098762",
+    "ulica": "Kościuszki",
+    "numer_domu": "34",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-012"
+  },
+  {
+    "imie": "Jan",
+    "nazwisko": "Nowak",
+    "telefon": "+48432109873",
+    "ulica": "Marszałkowska",
+    "numer_domu": "56",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-013"
+  },
+  {
+    "imie": "Anna",
+    "nazwisko": "Kowalski",
+    "telefon": "+48543210984",
+    "ulica": "Piotrkowska",
+    "numer_domu": "78",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-014"
+  },
+  {
+    "imie": "Piotr",
+    "nazwisko": "Kamińska",
+    "telefon": "+48654321095",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "90",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-015"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "Zieliński",
+    "telefon": "+48765432106",
+    "ulica": "Długa",
+    "numer_domu": "11",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-016"
+  },
+  {
+    "imie": "Michał",
+    "nazwisko": "Szymański",
+    "telefon": "+48876543217",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "33",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-017"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazwisko": "Woźniak",
+    "telefon": "+48987654328",
+    "ulica": "Kościuszki",
+    "numer_domu": "55",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-018"
+  },
+  {
+    "imie": "Paweł",
+    "nazwisko": "Dąbrowski",
+    "telefon": "+48198765439",
+    "ulica": "Marszałkowska",
+    "numer_domu": "44",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-019"
+  },
+  {
+    "imie": "Monika",
+    "nazwisko": "Kaczmarek",
+    "telefon": "+48209876540",
+    "ulica": "Piotrkowska",
+    "numer_domu": "66",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-020"
+  },
+  {
+    "imie": "Tomasz",
+    "nazwisko": "Lewandowski",
+    "telefon": "+48310987651",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "88",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-021"
+  },
+  {
+    "imie": "Magdalena",
+    "nazwisko": "Wójcik",
+    "telefon": "+48421098762",
+    "ulica": "Długa",
+    "numer_domu": "99",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-022"
+  },
+  {
+    "imie": "Łukasz",
+    "nazwisko": "Wiśniewski",
+    "telefon": "+48532109873",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "13",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-023"
+  },
+  {
+    "imie": "Ewa",
+    "nazwisko": "Zieliński",
+    "telefon": "+48643210984",
+    "ulica": "Kościuszki",
+    "numer_domu": "24",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-024"
+  },
+  {
+    "imie": "Jan",
+    "nazwisko": "Szymański",
+    "telefon": "+48754321095",
+    "ulica": "Marszałkowska",
+    "numer_domu": "35",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-025"
+  },
+  {
+    "imie": "Anna",
+    "nazwisko": "Woźniak",
+    "telefon": "+48865432106",
+    "ulica": "Piotrkowska",
+    "numer_domu": "57",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-026"
+  },
+  {
+    "imie": "Piotr",
+    "nazwisko": "Dąbrowski",
+    "telefon": "+48976543217",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "79",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-027"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "Krawczyk",
+    "telefon": "+48187654328",
+    "ulica": "Długa",
+    "numer_domu": "91",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-028"
+  },
+  {
+    "imie": "Michał",
+    "nazwisko": "Nowak",
+    "telefon": "+48298765439",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "14",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-029"
+  },
+  {
+    "imie": "Agnieszka",
+    "nazwisko": "Kowalski",
+    "telefon": "+48309876540",
+    "ulica": "Kościuszki",
+    "numer_domu": "26",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-030"
+  },
+  {
+    "imie": "Paweł",
+    "nazwisko": "Wiśniewski",
+    "telefon": "+48420987651",
+    "ulica": "Marszałkowska",
+    "numer_domu": "37",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-031"
+  },
+  {
+    "imie": "Monika",
+    "nazwisko": "Wójcik",
+    "telefon": "+48531098762",
+    "ulica": "Piotrkowska",
+    "numer_domu": "58",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-032"
+  },
+  {
+    "imie": "Tomasz",
+    "nazwisko": "Kamińska",
+    "telefon": "+48642109873",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "80",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-033"
+  },
+  {
+    "imie": "Magdalena",
+    "nazwisko": "Zieliński",
+    "telefon": "+48753210984",
+    "ulica": "Długa",
+    "numer_domu": "92",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-034"
+  },
+  {
+    "imie": "Łukasz",
+    "nazwisko": "Szymański",
+    "telefon": "+48864321095",
+    "ulica": "Grunwaldzka",
+    "numer_domu": "15",
+    "miasto": "Poznań",
+    "kod_pocztowy": "60-035"
+  },
+  {
+    "imie": "Ewa",
+    "nazwisko": "Woźniak",
+    "telefon": "+48975432106",
+    "ulica": "Kościuszki",
+    "numer_domu": "27",
+    "miasto": "Gdańsk",
+    "kod_pocztowy": "80-036"
+  },
+  {
+    "imie": "Jan",
+    "nazwisko": "Dąbrowski",
+    "telefon": "+48186543217",
+    "ulica": "Marszałkowska",
+    "numer_domu": "38",
+    "miasto": "Warszawa",
+    "kod_pocztowy": "00-037"
+  },
+  {
+    "imie": "Anna",
+    "nazwisko": "Kaczmarek",
+    "telefon": "+48297654328",
+    "ulica": "Piotrkowska",
+    "numer_domu": "59",
+    "miasto": "Kraków",
+    "kod_pocztowy": "30-038"
+  },
+  {
+    "imie": "Piotr",
+    "nazwisko": "Lewandowski",
+    "telefon": "+48308765439",
+    "ulica": "Świętokrzyska",
+    "numer_domu": "81",
+    "miasto": "Łódź",
+    "kod_pocztowy": "90-039"
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "Krawczyk",
+    "telefon": "+48419876540",
+    "ulica": "Długa",
+    "numer_domu": "93",
+    "miasto": "Wrocław",
+    "kod_pocztowy": "50-040"
+  }
+]
